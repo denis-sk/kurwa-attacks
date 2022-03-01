@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  kurwa-attacks:
+    image: ${DOCKER_REGISTRY-}kurwaattacks
+    build:
+      context: .
+      dockerfile: kurwa-attacks/Dockerfile

@@ -1,0 +1,9 @@
+/Users/denisskvortsov/Projects/KurwaAttacks/bin/Debug/kurwa-attacks.deps.json
+/Users/denisskvortsov/Projects/KurwaAttacks/bin/Debug/kurwa-attacks.runtimeconfig.json
+/Users/denisskvortsov/Projects/KurwaAttacks/bin/Debug/kurwa-attacks
+/Users/denisskvortsov/Projects/KurwaAttacks/bin/Debug/kurwa-attacks.dll
+/Users/denisskvortsov/Projects/KurwaAttacks/bin/Debug/Newtonsoft.Json.dll
+/Users/denisskvortsov/Projects/KurwaAttacks/bin/Debug/kurwa-attacks.pdb
+/Users/denisskvortsov/Projects/KurwaAttacks/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/Users/denisskvortsov/Projects/KurwaAttacks/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/denisskvortsov/Projects/KurwaAttacks/obj/Debug/docker-compose.dcproj.CopyComplete
